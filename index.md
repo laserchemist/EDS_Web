@@ -1,5 +1,5 @@
 ---
-title: Home
+title: EDS Web
 layout: home
 ---
 
